@@ -5,7 +5,7 @@
   <h3> 🌈 Welcome.. 🍭 </h3>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+Web;Cute+Developer+%F0%9F%90%B0;Always+Learning+%F0%9F%93%9A;Love+Coding+%F0%9F%92%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=TypeScript+%7C+Node.js+%7C+React+%7C+Vue;Front-End+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Love+Coding+%F0%9F%92%96" alt="Typing SVG" />
   </p>
 </div>
 
@@ -31,10 +31,10 @@
 <table align="center">
 <tr>
 <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoshuiz&show_icons=true&theme=buefy&count_private=true&hide_border=true&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" alt="xiaoshuiz's stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoshuiz&theme=buefy" alt="xiaoshuiz's stats" />
 </td>
 <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshuiz&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=c9d1d9" alt="Top Languages" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaoshuiz&theme=buefy" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -50,11 +50,11 @@
 <div align="center">
   <h3>🛠️ 技术栈 (Tech Stack) 🛠️</h3>
   
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <!-- Add more as needed -->
