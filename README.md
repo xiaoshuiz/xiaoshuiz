@@ -27,7 +27,7 @@
 
 <div align="center">
   <!-- 引用 Metrics 生成的图片 -->
-  <img src="https://github.com/xiaoshuiz/xiaoshuiz/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/xiaoshuiz/xiaoshuiz/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 </div>
