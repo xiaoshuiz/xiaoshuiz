@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E2aXF6b3R6eW55b3E2aXF6b3R6eW55b3E2aXF6b3R6eW55b3E2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWRfZ2lmJmN0PWc/L1R1TVThqceK6M8C2n/giphy.gif" width="100" />
+  <img src="https://pic1.zhimg.com/v2-759481eca170d4ca4e3ba79d6354dd00_b.webp" width="100" />
   <h1>Hi there, I'm <a href="https://github.com/xiaoshuiz">xiaoshuiz</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <h3> 🌈 Welcome.. 🍭 </h3>
