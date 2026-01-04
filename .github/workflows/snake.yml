@@ -30,11 +30,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # Use GH_TOKEN if it exists (for private contributions), otherwise use default GITHUB_TOKEN
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          # 关键点：这里直接使用 GH_TOKEN，这样贪吃蛇就能读取私有仓库贡献了！
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

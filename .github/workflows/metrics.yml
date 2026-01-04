@@ -1,0 +1,45 @@
+name: Metrics
+on:
+  # Schedule updates (every day at midnight)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: xiaoshuiz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # Activity Graph (Isocalendar) - 类似之前的 Activity Graph
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # 显示完整一年
+          
+          # Language stats - 前端优先
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: lines, percentage
+          plugin_languages_limit: 8
+          
+          # Habits - 编程习惯 (活跃时间段)
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: no     # Disable facts to avoid "author of undefined" error
+          plugin_habits_from: 200     # Display habits from last 200 events
