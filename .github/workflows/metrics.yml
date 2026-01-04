@@ -41,6 +41,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
-          plugin_habits_facts: yes
+          plugin_habits_facts: no  # Disable facts to avoid "author of undefined" error
           plugin_habits_from: 200     # Display habits from last 200 events
 
