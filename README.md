@@ -13,7 +13,7 @@
 
 <div align="center"> 
 
-### 🐍 贡献度贪吃蛇 (Snake) 🐍
+### 🐍 贡献度 🐍
 
 <div align="center">
   <picture>
