@@ -13,7 +13,7 @@
 
 <div align="center"> 
 
-### 🐍 贡献度 🐍
+### 🐍 Attribution 🐍
 
 <div align="center">
   <picture>
@@ -23,7 +23,7 @@
   </picture>
 </div>
 
-### 📊 数据大揭秘 (My GitHub Stats) 📈
+### 📊 My GitHub Stats 📈
 
 <table align="center">
 <tr>
@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <h3>🛠️ 技术栈 (Tech Stack) 🛠️</h3>
+  <h3>🛠️ Tech Stack 🛠️</h3>
   
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
