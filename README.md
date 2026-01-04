@@ -31,17 +31,17 @@
 <table align="center">
 <tr>
 <td>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoshuiz&theme=buefy" alt="xiaoshuiz's stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoshuiz&theme=vue" alt="xiaoshuiz's stats" />
 </td>
 <td>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaoshuiz&theme=buefy" alt="Top Languages" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaoshuiz&theme=vue" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-### 🏆 连续打卡 (Streak) 🔥
+### 📈 近期活跃度 (Activity Graph) 📊
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoshuiz&theme=buefy&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoshuiz&theme=react-dark&bg_color=0D1117&hide_border=true&color=F75C7E&line=F75C7E&point=FFFFFF" alt="GitHub Activity Graph" />
 
 </div>
 
