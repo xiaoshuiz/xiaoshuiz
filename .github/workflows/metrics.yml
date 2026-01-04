@@ -18,7 +18,7 @@ jobs:
           # The following scopes are required:
           #  - public_access (default scope)
           #  - repo
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: xiaoshuiz
