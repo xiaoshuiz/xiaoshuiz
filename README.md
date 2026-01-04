@@ -23,19 +23,6 @@
   </picture>
 </div>
 
-### 📊 详细数据与活跃度 (Detailed Metrics) 📈
-
-<div align="center">
-  <!-- 引用 Metrics 生成的图片 -->
-  <img src="https://github.com/xiaoshuiz/xiaoshuiz/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
-</div>
-
----
-
-<div align="center">
-
 ### 📊 数据大揭秘 (My GitHub Stats) 📈
 
 <table align="center">
