@@ -5,13 +5,13 @@
   <h3> 🌈 Welcome.. 🍭 </h3>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=TypeScript+%7C+Node.js+%7C+React+%7C+Vue;Front-End+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB;TypeScript+%7C+Node.js+%7C+React+%7C+Vue" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-<div align="center"> 
+<div align="center">
 
 ### 🐍 Attribution 🐍
 
@@ -23,7 +23,7 @@
   </picture>
 </div>
 
-### 📊 My GitHub Stats 📈
+### 📊 GitHub Stats 📈
 
 <table align="center">
 <tr>
