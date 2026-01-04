@@ -13,12 +13,14 @@
 
 <div align="center"> 
 
-### 📊 详细数据与活跃度 (Detailed Metrics) 📈
+### 🌟 贡献度 (Snake Contribution) 🐍
 
-<div align="center">
-  <!-- 引用 Metrics 生成的图片 -->
-  <img src="https://github.com/xiaoshuiz/xiaoshuiz/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+<!-- 贪吃蛇动画占位符，需要配置 GitHub Action 生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoshuiz/xiaoshuiz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoshuiz/xiaoshuiz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaoshuiz/xiaoshuiz/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
