@@ -1,65 +1,54 @@
-<p align="center">
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:1e293b,70:0891b2,100:22d3ee&text=Channon%20%7C%20Front-End%20Engineer&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Building%20modern%20web%20products%20with%20TypeScript,%20React,%20Vue,%20and%20AI.&descAlign=50&descAlignY=62"
-    alt="Channon profile header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2d1b69,35:8a2be2,70:ff69b4,100:22d3ee&text=Channon%20%7C%20Cyber%20Kawaii%20Frontend&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=38&desc=TypeScript%20x%20React%20x%20Vue%20x%20Node.js&descAlign=50&descAlignY=58"
+    alt="Channon cyber kawaii header"
   />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://pic1.zhimg.com/v2-759481eca170d4ca4e3ba79d6354dd00_b.webp" width="120" alt="Channon anime avatar" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&repeat=true&width=900&lines=Hi+there%2C+I%27m+Channon+%3CFrontend+Engineer%3E;Kawaii+UI+%2B+Type-safe+Architecture+%2B+Smooth+DX;Building+animated+and+modern+web+experiences+every+day;Welcome+to+my+digital+night+city" alt="Typing hero">
+</div>
 
 <p align="center">
-  <a href="https://github.com/xiaoshuiz">
-    <img src="https://img.shields.io/badge/GitHub-xiaoshuiz-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Role-Front--End%20Developer-0f766e?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-TypeScript%20%7C%20Node.js%20%7C%20AI-0c4a6e?style=flat-square" alt="Focus">
-  <img src="https://komarev.com/ghpvc/?username=xiaoshuiz&style=flat-square&color=0891b2" alt="Profile views">
+  <img src="https://img.shields.io/badge/mode-anime_ui-ec4899?style=flat-square&logo=codeforces&logoColor=white" alt="mode">
+  <img src="https://img.shields.io/badge/current_quest-front_end_system_design-7c3aed?style=flat-square&logo=githubactions&logoColor=white" alt="current quest">
+  <img src="https://img.shields.io/badge/focus-reactive_ui_+_ai_workflow-06b6d4?style=flat-square&logo=typescript&logoColor=white" alt="focus">
+  <img src="https://komarev.com/ghpvc/?username=xiaoshuiz&style=flat-square&color=f472b6" alt="Profile views">
 </p>
 
-## About
+## Live Console
 
-- I focus on building scalable front-end applications with clear architecture and smooth user experience.
-- I work with TypeScript-first workflows and modern engineering stacks for product delivery.
-- I care about performance, maintainability, developer experience, and practical AI integration in web products.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&repeat=true&width=920&lines=booting+frontend+spellbook...;quest%3A+crafting+cute+and+high-performance+interfaces;loadout%3A+TypeScript+%7C+React+%7C+Vue+%7C+Node.js+%7C+Vite;status%3A+committing+new+ideas+daily" alt="Live status typing">
+</p>
 
-## Now
-
-| Track | Current direction |
-| --- | --- |
-| Product Engineering | Design reusable component systems and data-driven UI modules |
-| Architecture | Improve monorepo patterns, tooling, and CI/CD stability |
-| AI + Front-End | Integrate LLM capabilities into real user workflows |
-| Performance | Keep first-load and interaction latency within measurable targets |
-
-## Tech Radar
+## Skill Spellbook
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,nestjs,pnpm,vite,tailwind,docker,git,githubactions&perline=7" alt="Tech stack icons">
 </p>
 
-## Engineering Principles
+## Contribution Rhythm
 
-- Build small, composable modules instead of tightly coupled pages.
-- Prefer convention + automation for quality gates and release confidence.
-- Keep documentation close to code and optimize for team collaboration.
-- Make product decisions based on user value and measurable impact.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoshuiz&bg_color=0d1117&color=f8fafc&line=ff69b4&point=22d3ee&area=true&hide_border=true&custom_title=Channon%20Activity%20Graph" alt="Contribution activity graph">
+</p>
 
-## Featured Work Style
-
-- Front-end architecture upgrades for medium/large scale projects
-- Reusable UI systems and design token implementation
-- Type-safe API integration and state management optimization
-- Developer tooling setup for faster onboarding and stable delivery
-
-## GitHub Pulse
+## Battle Log
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Auto%20Updated-Daily%20via%20GitHub%20Actions-0ea5e9?style=flat-square&logo=githubactions&logoColor=white" alt="Auto updated daily">
+  <img src="https://img.shields.io/badge/auto_sync-daily_via_github_actions-38bdf8?style=flat-square&logo=githubactions&logoColor=white" alt="auto sync">
 </p>
 
-## Contribution Activity
+## Snake Quest
 
 <p align="center">
   <picture>
@@ -69,10 +58,12 @@
   </picture>
 </p>
 
-## Connect
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=F9A8D4&center=true&vCenter=true&repeat=true&width=620&lines=Thanks+for+visiting+my+profile.;May+your+build+stay+green+and+your+UI+stay+cute." alt="Outro typing">
+</p>
 
 <p align="center">
   <a href="https://github.com/xiaoshuiz">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
+    <img src="https://img.shields.io/badge/follow_on_github-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
   </a>
 </p>
