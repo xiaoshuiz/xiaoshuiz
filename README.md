@@ -1,61 +1,79 @@
-<div align="center">
-  <img src="https://pic1.zhimg.com/v2-759481eca170d4ca4e3ba79d6354dd00_b.webp" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/xiaoshuiz">Channon</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  
-  <h3> 🌈 Welcome.. 🍭 </h3>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB;TypeScript+%7C+Node.js+%7C+React+%7C+Vue" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:1e293b,70:0891b2,100:22d3ee&text=Channon%20%7C%20Front-End%20Engineer&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Building%20modern%20web%20products%20with%20TypeScript,%20React,%20Vue,%20and%20AI.&descAlign=50&descAlignY=62"
+    alt="Channon profile header"
+  />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/xiaoshuiz">
+    <img src="https://img.shields.io/badge/GitHub-xiaoshuiz-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Role-Front--End%20Developer-0f766e?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-TypeScript%20%7C%20Node.js%20%7C%20AI-0c4a6e?style=flat-square" alt="Focus">
+  <img src="https://komarev.com/ghpvc/?username=xiaoshuiz&style=flat-square&color=0891b2" alt="Profile views">
+</p>
 
-<div align="center">
+## About
 
-### 🐍 Attribution 🐍
+- I focus on building scalable front-end applications with clear architecture and smooth user experience.
+- I work with TypeScript-first workflows and modern engineering stacks for product delivery.
+- I care about performance, maintainability, developer experience, and practical AI integration in web products.
 
-<div align="center">
+## Now
+
+| Track | Current direction |
+| --- | --- |
+| Product Engineering | Design reusable component systems and data-driven UI modules |
+| Architecture | Improve monorepo patterns, tooling, and CI/CD stability |
+| AI + Front-End | Integrate LLM capabilities into real user workflows |
+| Performance | Keep first-load and interaction latency within measurable targets |
+
+## Tech Radar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,nestjs,pnpm,vite,tailwind,docker,git,githubactions&perline=7" alt="Tech stack icons">
+</p>
+
+## Engineering Principles
+
+- Build small, composable modules instead of tightly coupled pages.
+- Prefer convention + automation for quality gates and release confidence.
+- Keep documentation close to code and optimize for team collaboration.
+- Make product decisions based on user value and measurable impact.
+
+## Featured Work Style
+
+- Front-end architecture upgrades for medium/large scale projects
+- Reusable UI systems and design token implementation
+- Type-safe API integration and state management optimization
+- Developer tooling setup for faster onboarding and stable delivery
+
+## GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaoshuiz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshuiz&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165">
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics">
+</p>
+
+## Contribution Activity
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoshuiz/xiaoshuiz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoshuiz/xiaoshuiz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaoshuiz/xiaoshuiz/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
-### 📊 GitHub Stats 📈
+## Connect
 
-<table align="center">
-<tr>
-<td>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoshuiz&theme=vue" alt="Channon's stats" />
-</td>
-<td>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaoshuiz&theme=vue" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-  <h3>🛠️ Tech Stack 🛠️</h3>
-  
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <!-- Add more as needed -->
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px">
-  <br/>
-  <p>Thanks for visiting! Have a wonderful day! ☀️</p>
-</div>
+<p align="center">
+  <a href="https://github.com/xiaoshuiz">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
+  </a>
+</p>
