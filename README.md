@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2d1b69,35:8a2be2,70:ff69b4,100:22d3ee&text=Channon%20%7C%20Front-End%20Engineer&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=38&desc=TypeScript%20x%20React%20x%20Vue%20x%20Node.js&descAlign=50&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2d1b69,35:8a2be2,70:ff69b4,100:22d3ee&text=Hi+here%2C+I%27m+Channon&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=38&desc=TypeScript%20x%20React%20x%20Vue%20x%20Node.js&descAlign=50&descAlignY=58"
     alt="Channon profile header"
   />
 </div>
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&repeat=true&width=900&lines=Hi+there%2C+I%27m+Channon+%3CFrontend+Engineer%3E;Building+animated+and+modern+web+experiences;Type-safe+architecture+%2B+smooth+DX;Shipping+with+TypeScript+%7C+React+%7C+Vue+%7C+Node.js" alt="Typing hero">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&repeat=true&width=900&lines=Frontend+Engineer+building+animated+and+modern+web+experiences;Type-safe+architecture+%2B+smooth+DX;Shipping+with+TypeScript+%7C+React+%7C+Vue+%7C+Node.js" alt="Typing hero">
 </div>
 
 <p align="center">
