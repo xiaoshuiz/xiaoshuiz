@@ -52,12 +52,11 @@
 ## GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaoshuiz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshuiz&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165">
+  <img src="./github-metrics.svg" alt="GitHub metrics">
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics">
+  <img src="https://img.shields.io/badge/Auto%20Updated-Daily%20via%20GitHub%20Actions-0ea5e9?style=flat-square&logo=githubactions&logoColor=white" alt="Auto updated daily">
 </p>
 
 ## Contribution Activity
