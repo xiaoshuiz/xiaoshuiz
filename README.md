@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&repeat=true&width=900&lines=Frontend+Engineer+building+animated+and+modern+web+experiences;Type-safe+architecture+%2B+smooth+DX;Shipping+with+TypeScript+%7C+React+%7C+Vue+%7C+Node.js" alt="Typing hero">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&repeat=true&width=900&lines=Frontend+Engineer+building+animated+and+modern+web+experiences;AI+Agent+Engineer+%7C+LangChain+%2B+LangGraph+%2B+LangSmith;Type-safe+architecture+%2B+smooth+DX;Shipping+with+TypeScript+%7C+React+%7C+Vue+%7C+Node.js" alt="Typing hero">
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## Live Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&repeat=true&width=920&lines=booting+frontend+workspace...;mission%3A+crafting+smooth+and+high-performance+interfaces;stack%3A+TypeScript+%7C+React+%7C+Vue+%7C+Node.js+%7C+Vite;status%3A+committing+new+ideas+daily" alt="Live status typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&repeat=true&width=920&lines=booting+frontend+workspace...;mission%3A+crafting+smooth+and+high-performance+interfaces;stack%3A+TypeScript+%7C+React+%7C+Vue+%7C+Node.js+%7C+Vite;agents%3A+LangChain+%7C+LangGraph+%7C+LangSmith+%7C+OpenViking;status%3A+committing+new+ideas+daily" alt="Live status typing">
 </p>
 
 ## Contribution Snake
@@ -38,14 +38,32 @@
 
 ## Skills
 
+<p align="center"><sub>🤖 <b>AI &amp; Agents</b></sub></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,nestjs,pnpm,vite,tailwind,docker,git,githubactions&perline=7" alt="Tech stack icons">
+  <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"></a>
+  <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"></a>
+  <a href="https://smith.langchain.com"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith"></a>
+  <a href="https://github.com/langchain-ai/open-swe"><img src="https://img.shields.io/badge/Open%20SWE-111827?style=flat-square&logo=github&logoColor=white" alt="Open SWE"></a>
+  <a href="https://github.com/volcengine/OpenViking"><img src="https://img.shields.io/badge/OpenViking-7c3aed?style=flat-square&logo=github&logoColor=white" alt="OpenViking"></a>
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"></a>
+  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"></a>
+</p>
+
+<p align="center"><sub>🧩 <b>Web &amp; Platform</b></sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,nestjs,py,pnpm,vite,tailwind,docker,git,githubactions&perline=7" alt="Tech stack icons">
 </p>
 
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoshuiz&bg_color=0d1117&color=f8fafc&line=ff69b4&point=22d3ee&area=true&hide_border=true&custom_title=Channon%20Activity%20Graph" alt="Contribution activity graph">
+  <img src="https://ghchart.rshah.org/f472b6/xiaoshuiz" alt="Channon contribution chart">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xiaoshuiz&theme=dark&hide_border=true&background=0D1117&ring=F472B6&fire=FF69B4&currStreakLabel=22D3EE" alt="GitHub streak stats">
 </p>
 
 ## Metrics
